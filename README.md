@@ -5,6 +5,8 @@ communication skills, and wants to use the technical knowledge to satisfy the ne
 to take challenges and have keen interest in Software Automation and Development. I want to collaborate
 with a variety of people in order to prepare for a challenging career in the future.
 
+I have completed 6 months internship on software testing in LEADS Corporation Ltd. 
+
 Skills: SQA / MySQL / JAVA / HTML / CSS
 
 - 🌱 I’m currently learning Software Automation Testing 
